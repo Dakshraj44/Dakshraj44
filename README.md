@@ -1,7 +1,7 @@
 <!-- My name -->
 <h1 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="35">
-  &nbsp; Welcome to Yatharth's profile! &nbsp;
+  &nbsp; Welcome to Daksh Raj profile! &nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="35">
 </h1>
 
@@ -16,20 +16,20 @@
 
 * 🏫 &nbsp;I'm a B.Tech CSE'2022 student at [Meerut Institute Of Engineering & Technology](https://www.miet.ac.in/home).
 * 👀 &nbsp;I’m currently partcipating in as much Coding contests as I can...
-* 👨‍💻 &nbsp;I’m currently learning AI/ML tools to become a AI Software  ENGINEER.
+* 👨‍💻 &nbsp;I’m currently learning Web tools to become a Full Stack Software  ENGINEER.
 * 🌱 &nbsp;Practicing Data Structures and Algorithm.
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25">I love to **make friends**. So if you want to say hi, I'll be happy to meet you more!😊
 
 <!-- My contacts -->
 <h2>🤝 Connect with me:</h2>
 <p align="center">
-<a href="tel:+91 7017313154" target="_blank">📱 +917017313154</a> | 
+<a href="tel:+91 8218797492" target="_blank">📱 +91-8218797492</a> | 
 </p>
 
 <!-- My Social Links -->
 <p align="center">
-<a href="https://www.linkedin.com/in/yatharth-a36922280/"/></a>
-<a href="https://www.instagram.com/yatharth_kp/"/></a>
+<a href="https://www.linkedin.com/in/daksh-raj-6b4a03280/"/></a>
+<a href="https://www.instagram.com/dakshdixit4493/"/></a>
 </p>
 
 
@@ -58,7 +58,7 @@
 <table>
 <tr>
 <td>
-<img alt="Yatharth's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Yatharth1299&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Daksh raj Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Yatharth1299&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </td>
   <td>
     <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth1299&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
