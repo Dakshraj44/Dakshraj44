@@ -44,7 +44,7 @@
 | `Frontend`       | <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
 | `Frameworks & Backend Tech` | <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-%2300789F.svg?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-%23000000.svg?style=for-the-badge&logo=spring&logoColor=white"/> |
 
-> *I removed the separate "Backend" row as requested and focused these items under Frameworks & Backend Tech. If you want that row back, or prefer Postman / Docker badges added, tell me and I’ll update them.*
+
 
 <h2> 📊 Github stats: </h2>
 
