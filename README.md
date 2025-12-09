@@ -20,6 +20,7 @@
 * 🌱 &nbsp; Continuously improving knowledge in system design, data structures & algorithms, and full-stack development.  
 * <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> I love to **collaborate & network** — say hi anytime! 😊
 
+
 <!-- My contacts -->
 <h2>🤝 Connect with me:</h2>
 <p align="center">
@@ -36,14 +37,12 @@
 <!-- My tools -->
 <h2> 🛠️ My Favorite Tools: </h2>
 
-|               |           |
-|       ---     |    ---    |
-
-| `Languages`   | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> |
-| `IDE & Tools`       | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-%23007A9C.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> |
-| `Frontend`       | <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
-| `Frameworks & Backend Tech` | <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-%2300789F.svg?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-%23000000.svg?style=for-the-badge&logo=spring&logoColor=white"/> |
-
+| Category | Tools |
+| --- | --- |
+| **Languages** | <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white"/> |
+| **IDE & Tools** | <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-5D1A60?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-%23007A9C.svg?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> |
+| **Frontend** | <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/Redux-%23593D88.svg?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/> |
+| **Frameworks & Backend Tech** | <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-%2300789F.svg?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Security-%23000000.svg?style=for-the-badge&logo=spring&logoColor=white"/> |
 
 
 <h2> 📊 Github stats: </h2>
@@ -51,13 +50,14 @@
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshraj44&theme=radical&hide_border=true" alt="streak"></img>
 </div>
+
 <table>
 <tr>
 <td>
 <img alt="Daksh raj Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dakshraj44&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-  </td>
-  <td>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshraj44&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
-  </td>
-  </tr>
-  </table>
+</td>
+<td>
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshraj44&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+</td>
+</tr>
+</table>
