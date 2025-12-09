@@ -53,15 +53,15 @@
 <h2> 📊 Github stats: </h2>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yatharth1299&theme=radical&hide_border=true" alt="nicesapien"></img>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dakshraj44&theme=radical&hide_border=true" alt="nicesapien"></img>
 </div>
 <table>
 <tr>
 <td>
-<img alt="Daksh raj Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Yatharth1299&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+<img alt="Daksh raj Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Dakshraj44&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
   </td>
   <td>
-    <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharth1299&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
+    <img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dakshraj44&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/>
   </td>
   </tr>
   </table>
